@@ -1,0 +1,197 @@
+@font-face {
+  font-family: 'icons_all';
+  src:  url('fonts/icons_all.eot?6a4zzj');
+  src:  url('fonts/icons_all.eot?6a4zzj#iefix') format('embedded-opentype'),
+    url('fonts/icons_all.ttf?6a4zzj') format('truetype'),
+    url('fonts/icons_all.woff?6a4zzj') format('woff'),
+    url('fonts/icons_all.svg?6a4zzj#icons_all') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icons_all' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-heart_outlined:before {
+  content: "\e900";
+  color: #2c1c8e;
+}
+.icon-team_add:before {
+  content: "\e914";
+}
+.icon-chevroncompactdown:before {
+  content: "\e912";
+}
+.icon-chevroncompactup:before {
+  content: "\e913";
+}
+.icon-repeat:before {
+  content: "\e911";
+}
+.icon-hamburger:before {
+  content: "\e90f";
+}
+.icon-person:before {
+  content: "\e910";
+}
+.icon-circlefill:before {
+  content: "\e90e";
+}
+.icon-upvote_outline-converted:before {
+  content: "\e90d";
+}
+.icon-upvote:before {
+  content: "\e90c";
+  color: #2c1c8e;
+}
+.icon-chevronbackward:before {
+  content: "\e90b";
+}
+.icon-question_colored:before {
+  content: "\e90a";
+  color: #2c1c8e;
+}
+.icon-chat_enter_active:before {
+  content: "\e909";
+  color: #2c1c8e;
+}
+.icon-chat_enter:before {
+  content: "\e904";
+  color: #2c1c8e;
+}
+.icon-waveform:before {
+  content: "\e905";
+}
+.icon-wyrthchatbot .path1:before {
+  content: "\e906";
+  color: rgb(255, 107, 107);
+  opacity: 0.75;
+}
+.icon-wyrthchatbot .path2:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(44, 28, 142);
+}
+.icon-wyrthchatbot .path3:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(44, 28, 142);
+}
+.icon-plus:before {
+  content: "\e901";
+}
+.icon-arrowup:before {
+  content: "\e902";
+  color: #ff6b6b;
+}
+.icon-magnifyingglass:before {
+  content: "\e903";
+}
+.icon-team:before {
+  content: "\e915";
+  color: #2c1c8e;
+}
+.icon-next:before {
+  content: "\e916";
+  color: #2c1c8e;
+}
+.icon-equality:before {
+  content: "\e917";
+}
+.icon-leaf:before {
+  content: "\e918";
+}
+.icon-badweather:before {
+  content: "\e919";
+}
+.icon-co2:before {
+  content: "\e91a";
+}
+.icon-healthy:before {
+  content: "\e91b";
+}
+.icon-flag_big_outline:before {
+  content: "\e91c";
+}
+.icon-flag_big_solid:before {
+  content: "\e91d";
+}
+.icon-Home_outline_2:before {
+  content: "\e91e";
+}
+.icon-home_solid:before {
+  content: "\e91f";
+}
+.icon-flag_hollow:before {
+  content: "\e920";
+}
+.icon-flag_solid:before {
+  content: "\e921";
+}
+.icon-bolt_outline:before {
+  content: "\e922";
+}
+.icon-bolt_solid:before {
+  content: "\e923";
+}
+.icon-stats:before {
+  content: "\e924";
+}
+.icon-checkmark_sharp:before {
+  content: "\e925";
+}
+.icon-close-x:before {
+  content: "\e926";
+}
+.icon-comment_detailed:before {
+  content: "\e927";
+}
+.icon-comment_simple:before {
+  content: "\e928";
+}
+.icon-enter_hollow:before {
+  content: "\e929";
+}
+.icon-enter_solid:before {
+  content: "\e92a";
+}
+.icon-heart_outline:before {
+  content: "\e92b";
+}
+.icon-heart_solid:before {
+  content: "\e92c";
+}
+.icon-info_sansserif:before {
+  content: "\e92d";
+}
+.icon-info_serif:before {
+  content: "\e92e";
+}
+.icon-share1:before {
+  content: "\e92f";
+}
+.icon-thumbsdown:before {
+  content: "\e930";
+}
+.icon-thumbsup:before {
+  content: "\e931";
+}
+.icon-bank:before {
+  content: "\e932";
+}
+.icon-doc:before {
+  content: "\e933";
+}
